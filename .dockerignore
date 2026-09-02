@@ -1,0 +1,11 @@
+bin/
+obj/
+.git/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+README.md
+docs/
+.gitlab-ci.yml
